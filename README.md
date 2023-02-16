@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gilbert Benimana
 - 👀 I’m interested in Mobile cross-platform and Full-stack Web development with Flutter and Django
-- 🌱 I started my mobile dev journey in 2019  
+- 🌱 I started my tech journey in 2019  
 - 💞️ I’m open to collaborate on real world app projects
 - 📫 You can reach out to me on my personal email bengil994.bg@gmail.com
 
